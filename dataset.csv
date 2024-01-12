@@ -1,0 +1,100 @@
+Disease,Symptom_1,Symptom_2,Symptom_3
+Fungal infection,itching, skin_rash, vomiting
+Fungal infection, skin_rash, skin_rash, vomiting
+Fungal infection,itching, skin_rash, vomiting
+Fungal infection,itching, skin_rash, vomiting
+Fungal infection,itching, skin_rash, vomiting
+Fungal infection, skin_rash, skin_rash, vomiting
+Fungal infection,itching, skin_rash, vomiting
+Fungal infection,itching, skin_rash, vomiting
+Fungal infection,itching, skin_rash, vomiting
+Fungal infection,itching, skin_rash, vomiting
+Allergy, continuous_sneezing, skin_rash, vomiting
+Allergy, shivering, skin_rash, vomiting
+Allergy, continuous_sneezing, skin_rash, vomiting
+Allergy, continuous_sneezing, skin_rash, vomiting
+Allergy, continuous_sneezing, skin_rash, vomiting
+Allergy, shivering, skin_rash, vomiting
+Allergy, continuous_sneezing, skin_rash, vomiting
+Allergy, continuous_sneezing, skin_rash, vomiting
+Allergy, continuous_sneezing, skin_rash, vomiting
+Allergy, continuous_sneezing, skin_rash, vomiting
+GERD, stomach_pain, acidity, vomiting
+GERD, stomach_pain, acidity, vomiting
+GERD, stomach_pain, acidity, vomiting
+GERD, stomach_pain, acidity, vomiting
+GERD, stomach_pain, acidity, vomiting
+GERD, stomach_pain, acidity, vomiting
+GERD, acidity, acidity, vomiting
+GERD, stomach_pain, acidity, vomiting
+GERD, stomach_pain, acidity, vomiting
+GERD, stomach_pain, acidity, vomiting
+Chronic cholestasis,itching, vomiting, vomiting
+Chronic cholestasis, vomiting, vomiting, vomiting
+Chronic cholestasis,itching, vomiting, vomiting
+Chronic cholestasis,itching, vomiting, vomiting
+Chronic cholestasis,itching, vomiting, stomach_pain
+Chronic cholestasis,itching, vomiting, stomach_pain
+Chronic cholestasis,itching, vomiting, stomach_pain
+Chronic cholestasis,itching, vomiting, stomach_pain
+Chronic cholestasis,itching, vomiting, stomach_pain
+Chronic cholestasis,itching, vomiting, stomach_pain
+Drug Reaction,itching, skin_rash, stomach_pain
+Drug Reaction,itching, stomach_pain, stomach_pain
+Drug Reaction,itching, skin_rash, stomach_pain
+Drug Reaction,itching, skin_rash, stomach_pain
+Drug Reaction,itching, skin_rash, stomach_pain
+Drug Reaction, skin_rash, stomach_pain, stomach_pain
+Drug Reaction,itching, stomach_pain, stomach_pain
+Drug Reaction,itching, skin_rash, stomach_pain
+Drug Reaction,itching, skin_rash, stomach_pain
+Drug Reaction,itching, skin_rash, stomach_pain
+Peptic ulcer diseae, vomiting, skin_rash, stomach_pain
+Peptic ulcer diseae, vomiting, indigestion, stomach_pain
+Peptic ulcer diseae, indigestion, indigestion, stomach_pain
+Peptic ulcer diseae, vomiting, indigestion, stomach_pain
+Peptic ulcer diseae, vomiting, indigestion, stomach_pain
+Peptic ulcer diseae, vomiting, indigestion, stomach_pain
+Peptic ulcer diseae, vomiting, indigestion, stomach_pain
+Peptic ulcer diseae, vomiting, indigestion, stomach_pain
+Peptic ulcer diseae, vomiting, indigestion, stomach_pain
+Peptic ulcer diseae, vomiting, indigestion, stomach_pain
+AIDS, muscle_wasting, indigestion, stomach_pain
+AIDS,indigestion, indigestion, stomach_pain
+AIDS,indigestion, indigestion, stomach_pain
+AIDS,indigestion, indigestion, stomach_pain
+AIDS,indigestion, indigestion, stomach_pain
+AIDS,indigestion, indigestion, stomach_pain
+AIDS,indigestion, indigestion, stomach_pain
+AIDS,indigestion, indigestion, stomach_pain
+AIDS,indigestion, indigestion, stomach_pain
+AIDS,indigestion, indigestion, stomach_pain
+Diabetes , fatigue, indigestion, stomach_pain
+Diabetes , fatigue, indigestion, stomach_pain
+Diabetes , fatigue, indigestion, continuous_sneezing
+Diabetes , fatigue, indigestion, continuous_sneezing
+Diabetes , fatigue, indigestion, continuous_sneezing
+Diabetes , fatigue, indigestion, continuous_sneezing
+Diabetes , fatigue, indigestion, continuous_sneezing
+Diabetes , fatigue, indigestion, continuous_sneezing
+Diabetes , fatigue, indigestion, continuous_sneezing
+Diabetes , fatigue, indigestion, continuous_sneezing
+Gastroenteritis, vomiting, indigestion, continuous_sneezing
+Gastroenteritis, vomiting, indigestion, continuous_sneezing
+Gastroenteritis, vomiting, indigestion, continuous_sneezing
+Gastroenteritis, vomiting, indigestion, continuous_sneezing
+Gastroenteritis, vomiting, indigestion, continuous_sneezing
+Gastroenteritis, vomiting, indigestion, continuous_sneezing
+Gastroenteritis, vomiting, indigestion, continuous_sneezing
+Gastroenteritis, vomiting, indigestion, continuous_sneezing
+Gastroenteritis, vomiting, indigestion, continuous_sneezing
+Gastroenteritis, vomiting, indigestion, continuous_sneezing
+Bronchial Asthma, fatigue, indigestion, continuous_sneezing
+Bronchial Asthma, fatigue, indigestion, continuous_sneezing
+Bronchial Asthma, fatigue, indigestion, continuous_sneezing
+Bronchial Asthma, fatigue, indigestion, continuous_sneezing
+Bronchial Asthma, fatigue, indigestion, continuous_sneezing
+Bronchial Asthma, fatigue, indigestion, continuous_sneezing
+Bronchial Asthma, fatigue, indigestion, continuous_sneezing
+Bronchial Asthma, fatigue, indigestion, continuous_sneezing
+Bronchial Asthma, fatigue, indigestion, continuous_sneezing
